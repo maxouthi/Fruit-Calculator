@@ -1,0 +1,9 @@
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\obj\Debug\Fruit_Calculator.Form1.resources
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\obj\Debug\Fruit_Calculator.Properties.Resources.resources
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\obj\Debug\Fruit Calculator.csproj.GenerateResource.cache
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\obj\Debug\Fruit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\bin\Debug\Fruit Calculator.exe.config
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\bin\Debug\Fruit Calculator.exe
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\bin\Debug\Fruit Calculator.pdb
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\obj\Debug\Fruit Calculator.exe
+C:\Users\ryano\source\repos\Fruit Calculator\Fruit Calculator\obj\Debug\Fruit Calculator.pdb
